@@ -10,9 +10,6 @@ This repository contains solutions to three machine learning tasks using differe
 - [HW5-2: Handwritten Digit Recognition (Dense NN, CNN)](#hw5-2-handwritten-digit-recognition-dense-nn-cnn-tfkeras-pytorch-or-pytorch-lightning)
 - [HW5-3: CIFAR Image Classification with VGG19 Pretrained Model](#hw5-3-cifar-image-classification-with-vgg19-pretrained-model-tfkeras-or-pytorch-lightning)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
 ---
 
 ## HW5-1: Iris Classification Problem (tf.keras, PyTorch, PyTorch Lightning)
