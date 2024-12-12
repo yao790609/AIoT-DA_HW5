@@ -9,7 +9,6 @@ This repository contains solutions to three machine learning tasks using differe
 - [HW5-1: Iris Classification Problem](#hw5-1-iris-classification-problem-tfkeras-pytorch-pytorch-lightning)
 - [HW5-2: Handwritten Digit Recognition (Dense NN, CNN)](#hw5-2-handwritten-digit-recognition-dense-nn-cnn-tfkeras-pytorch-or-pytorch-lightning)
 - [HW5-3: CIFAR Image Classification with VGG19 Pretrained Model](#hw5-3-cifar-image-classification-with-vgg19-pretrained-model-tfkeras-or-pytorch-lightning)
-- [Installation](#installation)
 ---
 
 ## HW5-1: Iris Classification Problem (tf.keras, PyTorch, PyTorch Lightning)
@@ -82,25 +81,6 @@ We will leverage the VGG19 model, pretrained on ImageNet, and modify the final l
   - Use PyTorch Lightning's hooks for training, validation, and callbacks such as EarlyStopping.
 
 ---
-
-## Installation
-
-To use this repository, follow these steps to set up the environment:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
-    ```
-
-2. Set up the environment (use Python 3.7 or higher):
-    ```bash
-    conda create -n ml_homework python=3.7
-    conda activate ml_homework
-    ```
----
-
-
 
 
 
